@@ -1,3 +1,3 @@
 # safi
-coding basic<br>
+coding basic
 web development
